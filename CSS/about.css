@@ -1,0 +1,8 @@
+.football {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    float: left;
+    border-color: blue;
+    border-style: dashed;
+  }
